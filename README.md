@@ -16,14 +16,6 @@
 
 ---------------------------------------------------------------------
 
-这段时间感觉对氪金抽卡类手机游戏兴趣寥寥。
-
-第一次抗拒“每日任务”这种设计到了无以复加的地步，导致现在基本不愿意碰手机游戏了。
-
-如果没有每日任务这一套和活动，玩家是不是就都不会上线了？
-
---3.14
-
 <!---
 SuzQF/SuzQF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
